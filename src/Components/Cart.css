@@ -1,0 +1,7 @@
+.cart {
+    position: fixed;
+    top: 76px;
+    right: 30px;
+    padding: 10px;
+    cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.card{
+    height:450px;
+    width:300px;
+}
+
+.card-title{
+    max-width: 300px;
+}
+
+.container-btn{
+    display:flex;
+    justify-content:center;
+    margin-top:30px;
+}
+
+.price{
+    font-size:19px;
+    height:30px;
+}
